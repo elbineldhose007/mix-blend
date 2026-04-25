@@ -70,10 +70,13 @@ No installation or dependencies required.
 * Background image with overlay blend
 * Centered title and descriptive text
 
+[live](https://elbineldhose007.github.io/mix-blend/)
+
 ![img](./Screenshot_25-4-2026_192915_127.0.0.1.jpeg)
 
 ---
-
+## Author
+ Elbin Eldhose
 ## ✨ Customization
 
 You can easily modify:
